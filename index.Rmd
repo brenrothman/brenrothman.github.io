@@ -1,0 +1,40 @@
+---
+title: "Brenna Rothman"
+image: "brenna.jpeg"
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/brenna-rothman-aa35b720b/"
+  - label: Twitter
+    url: "https://twitter.com/"
+  - label: GitHub
+    url: "https://github.com/brenrothman"
+  - label: Email
+    url: "brenroth@uw.edu"
+output:
+  postcards::trestles
+---
+ 
+## Bio
+
+Frank Hermosillo studies neural networks and their applications at Google 
+Brain. His research focuses on differentiable network pruning approximation and 
+decentralized gradient inversion mechanics. He frequently collaborates with 
+researchers who study machine learning, computer vision, and cognitive science.
+His work has been featured in WIRED, The Atlantic, Newsweek, and The New York 
+Times Magazine.
+
+## Education
+
+**University of Washington** | Seattle, WA
+
+M.S. in Aquatic and Fishery Sciences | September 2024 - Current
+
+**Oregon State University** | Corvallis, OR
+
+B.S. in Biology | September 2019 - December 2022
+
+## Experience
+
+**Google Brain** | Principal Investigator | January 2018 - Present
+
+**Netflix** | Research Scientist | June 2014 - December 2017
