@@ -4,8 +4,6 @@ image: "brenna.jpeg"
 links:
   - label: LinkedIn
     url: "https://www.linkedin.com/in/brenna-rothman-aa35b720b/"
-  - label: Twitter
-    url: "https://twitter.com/"
   - label: GitHub
     url: "https://github.com/brenrothman"
   - label: Email
