@@ -11,7 +11,7 @@ links:
 output:
   postcards::solana
 ---
- 
+
 ## Bio
 
 Raised in the Salish Sea, my ultimate goal has always been to maintain the healthy
