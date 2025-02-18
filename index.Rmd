@@ -11,7 +11,6 @@ links:
 output:
   postcards::solana
 ---
-
 ## Bio
 
 Raised in the Salish Sea, my ultimate goal has always been to maintain the healthy
@@ -29,8 +28,11 @@ B.S. in Biology | September 2019 - December 2022
 
 ## Experience
 
-**Partnership for Interscholastic Studies of Coastal Oceans** | Faculty Research Assistant | November 2023 - August 2024
+**Partnership for Interscholastic Studies of Coastal Oceans** 
+Faculty Research Assistant | November 2023 - August 2024
 
-**Partnership for Interscholastic Studies of Coastal Oceans** | Biological Science Technician | June 2023 - October 2023
+**Partnership for Interscholastic Studies of Coastal Oceans** 
+Biological Science Technician | June 2023 - October 2023
 
-**Undergraduate Research Fellow** | Oregon State University | June 2022 - November 2022
+**Oregon State University** 
+Undergraduate Research Fellow |  June 2022 - November 2022
