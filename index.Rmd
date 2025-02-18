@@ -9,17 +9,13 @@ links:
   - label: Email
     url: "brenroth@uw.edu"
 output:
-  postcards::trestles
+  postcards::solana
 ---
  
 ## Bio
 
-Frank Hermosillo studies neural networks and their applications at Google 
-Brain. His research focuses on differentiable network pruning approximation and 
-decentralized gradient inversion mechanics. He frequently collaborates with 
-researchers who study machine learning, computer vision, and cognitive science.
-His work has been featured in WIRED, The Atlantic, Newsweek, and The New York 
-Times Magazine.
+Raised in the Salish Sea, my ultimate goal has always been to maintain the healthy
+marine ecosystems that gave me life as a scientist. My research interests lie at the intersect of spatial science and nearshore community ecology. Currently, I am a graduate student in the Marine Landscape Ecology Lab at the University of Washington - School of Aquatic and Fishery Sciences. 
 
 ## Education 
 
@@ -35,4 +31,6 @@ B.S. in Biology | September 2019 - December 2022
 
 **Partnership for Interscholastic Studies of Coastal Oceans** | Faculty Research Assistant | November 2023 - August 2024
 
-**Netflix** | Research Scientist | June 2014 - December 2017
+**Partnership for Interscholastic Studies of Coastal Oceans** | Biological Science Technician | June 2023 - October 2023
+
+**Undergraduate Research Fellow** | Oregon State University | June 2022 - November 2022
