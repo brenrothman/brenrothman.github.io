@@ -11,7 +11,7 @@ links:
   - label: Instagram
     url: "https://www.instagram.com/barnacle.brenna/?igsh=NTc4MTIwNjQ2YQ%3D%3D&utm_source=qr#"
 output:
-  postcards::solana
+  postcards::trestles
 ---
 ## Bio
 
