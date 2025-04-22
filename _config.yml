@@ -82,7 +82,7 @@ social-network-links:
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
-rss-description: This website is a virtual proof that I'm awesome
+rss-description: Graduate Student at the University of Washington
 
 ###########################
 # --- General options --- #
@@ -133,14 +133,14 @@ navbar-var-length: false
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
 page-col: "#FFFFFF"
-text-col: "#404040"
+text-col: "#362904FF"
 link-col: "#008AFF"
 hover-col: "#0085A1"
-navbar-col: "#EAEAEA"
-navbar-text-col: "#404040"
-navbar-border-col: "#DDDDDD"
-footer-col: "#EAEAEA"
-footer-text-col: "#777777"
+navbar-col: "#85B6CEFF"
+navbar-text-col: "#362904FF"
+navbar-border-col: "#85B6CEFF"
+footer-col: "#85B6CEFF"
+footer-text-col: "#362904FF"
 footer-link-col: "#404040"
 footer-hover-col: "#0085A1"
 
