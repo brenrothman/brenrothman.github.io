@@ -5,7 +5,7 @@ subtitle: Graduate Student at the University of Washington
 ---
 
 # Current Work
-<img align="right" src="assets/img/IMG_4903.jpeg" alt="photo of Brenna Rothman" width="200"
+<img align="right" src="assets/img/IMG_4903 (1).jpeg" alt="photo of Brenna Rothman" width="200"
      height="249" />
      
 I'm a first-year graduate student in the Marine Landscape Ecology Lab at the University of Washington - School of Aquatic and Fishery Sciences. 
