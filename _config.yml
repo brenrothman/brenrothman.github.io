@@ -21,7 +21,7 @@ author: Brenna Rothman
 
 navbar-links:
   About Me: "aboutme"
-  Outreach: 
+  Outreach: "outreach.md"
   CV: "/assets/RothmanBrenna_CV.docx"
 #  Resources:
 #   - Beautiful Jekyll: "https://beautifuljekyll.com"
