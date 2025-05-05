@@ -1,16 +1,12 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: 
 ---
+Partnership for Interdisciplinary Studies of Coastal Oceans (PISCO)
+photo of PISCO field team
 
-My name is Inigo Montoya. I have the following qualities:
+Before attending UW, I was a Faculty Research Assistant with the Lubchenco-Menge Lab at Oregon State University. Under the guidance of Dr. Bruce Menge and Dr. Sarah Gravem, I led a mussel mortality project and helped manage the field operations as a branch of The Partnership for Interdisciplinary Studies of Coastal Oceans (PISCO). Prior to this, I was a seasonal research assistant for the lab and PISCO, conducting rocky intertidal fieldwork in Oregon and California.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Undergraduate Research
+I received my B.S. in Biology from Oregon State University in 2022. As part of my academic journey, I was a undergraduate research fellow studying the reproductive timing of the critically endangered sunflower sea star, Pycnopodia helianthoides.
