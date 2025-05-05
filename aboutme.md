@@ -4,7 +4,7 @@ title: About me
 subtitle: 
 ---
 Partnership for Interdisciplinary Studies of Coastal Oceans (PISCO)
-photo of PISCO field team
+
 
 Before attending UW, I was a Faculty Research Assistant with the Lubchenco-Menge Lab at Oregon State University. Under the guidance of Dr. Bruce Menge and Dr. Sarah Gravem, I led a mussel mortality project and helped manage the field operations as a branch of The Partnership for Interdisciplinary Studies of Coastal Oceans (PISCO). Prior to this, I was a seasonal research assistant for the lab and PISCO, conducting rocky intertidal fieldwork in Oregon and California.
 
