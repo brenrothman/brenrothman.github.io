@@ -18,4 +18,4 @@ If you are an undergraduate student at the University of Washington interested i
      height="349" />
 
 # Invited Presentations
-The Cape Perpetua Collaborative, an environmental stewardship organization, invited me to host a webinar where I discussed the vital science being conducted on the Oregon Coast by mt former research group. Link to my webinar [here](https://www.youtube.com/watch?v=LEeD-TBeGvk)
+The Cape Perpetua Collaborative, an environmental stewardship organization, invited me to host a webinar where I discussed the vital science being conducted on the Oregon Coast by my former research group. Link to my webinar [here](https://www.youtube.com/watch?v=LEeD-TBeGvk)
