@@ -14,8 +14,8 @@ I've had the privilege of mentoring three undergraduate students at Oregon State
 
 If you are an undergraduate student at the University of Washington interested in GIS and marine systems, contact me at brenroth@uw.edu for research opportunities. 
 
-<img align="center" src="/assets/img/auggie_kaia_brenna.jpeg" alt="photo of undergraduate students Auggie (left) and Kaia (right) at a research symposium" width="450"
-     height="349" />
+<img align="center" src="/assets/img/auggie_kaia_brenna.jpeg" alt="photo of undergraduate students Auggie (left) and Kaia (right) at a research symposium" width="550"
+     height="449" />
 
 # Invited Presentations
 The Cape Perpetua Collaborative, an environmental stewardship organization, invited me to host a webinar where I discussed the vital science being conducted on the Oregon Coast by my former research group. Link to my webinar [here](https://www.youtube.com/watch?v=LEeD-TBeGvk)
