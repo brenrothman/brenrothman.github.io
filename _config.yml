@@ -22,10 +22,10 @@ author: Brenna Rothman
 navbar-links:
   Home: "index"
   About Me: "aboutme"
-  Research: 
-    - Landscape Habitat Heterogeneity & Disturbance: "research/current-research.md"
-    - Rocky Intertidal Community Ecology 
-    - Sunflower Sea Star Reproductive Timing
+  Research Areas: 
+    - Landscape Ecology: "research/current-research.md"
+    - Community Ecology:
+    - Reproductive Timing:
   Outreach: "outreach"
   CV: "assets/RothmanBrenna_CV-website.pdf"
 #  Resources:
