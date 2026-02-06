@@ -23,9 +23,9 @@ navbar-links:
   Home: "index"
   About Me: "aboutme"
   Research: 
-  - Landscape Habitat Heterogeneity & Disturbance
-  - Rocky Intertidal Community Ecology 
-  - Sunflower Sea Star Reproductive Timing
+    - Landscape Habitat Heterogeneity & Disturbance
+    - Rocky Intertidal Community Ecology 
+    - Sunflower Sea Star Reproductive Timing
   Outreach: "outreach"
   CV: "assets/RothmanBrenna_CV-website.pdf"
 #  Resources:
