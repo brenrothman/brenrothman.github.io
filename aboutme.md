@@ -10,7 +10,7 @@ In my spare time, I enjoy tide pooling, pressing seaweed, hiking, crafting, play
 
 # Previous Work
 ### Partnership for Interdisciplinary Studies of Coastal Oceans (PISCO) 
-<img align="top" src="/assets/img/dji_fly_20240806_092218_189_1722961362471_photo.jpeg" alt="photo of PISCO field team 2024" width="550"
+<img align="top" src="/assets/img/dji_fly_20240806_092218_189_1722961362471_photo.jpeg" alt="photo of PISCO field team 2024" width="650"
      height="449" />
 
 
