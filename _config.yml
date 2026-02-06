@@ -23,7 +23,7 @@ navbar-links:
   Home: "index"
   About Me: "aboutme"
   Research: 
-    - Landscape Habitat Heterogeneity & Disturbance
+    - Landscape Habitat Heterogeneity & Disturbance: "research/current-research.md"
     - Rocky Intertidal Community Ecology 
     - Sunflower Sea Star Reproductive Timing
   Outreach: "outreach"
