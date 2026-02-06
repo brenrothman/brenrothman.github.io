@@ -23,7 +23,7 @@ navbar-links:
   Home: "index"
   About Me: "aboutme"
   Research Areas: 
-    - Landscape Ecology: "research/current-research.md"
+    - Landscape Ecology: "research/current-research"
     - Community Ecology:
     - Reproductive Timing:
   Outreach: "outreach"
