@@ -8,5 +8,7 @@ subtitle: Graduate Student at the University of Washington
      height="520" />
      
 I'm a second-year graduate student in the Marine Landscape Ecology Lab at the University of Washington - School of Aquatic and Fishery Sciences. 
-My focal research is about evaluating the role of structural complexity as a disturbance buffer in rocky intertidal habitats. My intention is to utilize a combination of fieldwork, aerial imaging, GIS, and modeling to disentangle the relationships between habitat complexity, disturbance, and biodiversity in a dynamic marine landscape.  
+My focal research is about evaluating the role of structural complexity as a disturbance buffer in rocky intertidal habitats.
+
+I utilize a combination of fieldwork, aerial imaging, GIS, and modeling to disentangle the relationships between habitat complexity, disturbance, and biodiversity in a dynamic marine landscape.  
 
