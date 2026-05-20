@@ -24,7 +24,7 @@ navbar-links:
   About Me: "aboutme"
   Research Areas: 
     - Landscape Ecology: "research/current-research"
-    - Community Ecology:
+    - Community Ecology: "research/community-ecology"
     - Reproductive Timing:
   Outreach: "outreach"
   CV: "assets/RothmanBrenna_CV-website.pdf"
