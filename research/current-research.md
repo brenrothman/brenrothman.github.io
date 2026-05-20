@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 
-subtitle: Landscape Ecology
+title: Landscape Ecology
+subtitle: 
 ---
 
 # Current Work
