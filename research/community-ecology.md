@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 
+title: Community Ecology
 subtitle: 
 ---
 # Rocky Intertidal Community Ecology
