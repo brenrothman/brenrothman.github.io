@@ -1,4 +1,5 @@
-# Rocky Intertidal Community Ecology
+# Community Ecology
+## Rocky Intertidal Community Ecology
 ### Partnership for Interdisciplinary Studies of Coastal Oceans (PISCO) 
 <img align="top" src="/assets/img/dji_fly_20240806_092218_189_1722961362471_photo.jpeg" alt="photo of PISCO field team 2024" width="650"
      height="449" />
